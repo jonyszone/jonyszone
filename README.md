@@ -27,8 +27,8 @@
 
 Some recent information about me :
 
-- 🔭 I’m currently working on Mobile application.
-- 🌱 I’m currently learning everything 
+- 🔭 I’m currently working on Mobile Application Development.
+- 🌱 I’m currently learning Kotlin, Jetpack Compose 
 - 👯 I’m looking to collaborate content creators
 - 💬 Ask me about any problems
 - 📫 How to reach me: ...
