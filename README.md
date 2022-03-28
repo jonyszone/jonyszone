@@ -28,7 +28,7 @@
 Some recent information about me :
 
 - 🔭 I’m currently working on Mobile Application Development.
-- 🌱 I’m currently learning Kotlin, Jetpack Compose 
+- 🌱 I’m currently learning Kotlin, Jetpack Compose, Cryptocurrency
 - 👯 I’m looking to collaborate with content creators
 - 💬 Ask me about any problems
 - 📫 How to reach me: Anywhere :)
