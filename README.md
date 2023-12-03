@@ -2,7 +2,7 @@
 
 <!--
 **jonyszone/jonyszone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-## I'm a Developer, Content Creator, Husband.
+## I'm a Developer, Content Creator, Father.
 
 ✏️ Follow me ->  
 
