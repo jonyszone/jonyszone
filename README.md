@@ -10,21 +10,6 @@
 
 <br>
 
-### Activity: 
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonyszone)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jonyszone&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/jonyszone)  
-
-
-
-
-
 Some recent information about me :
 
 - 🔭 I’m currently working on Mobile Application Development.
